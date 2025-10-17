@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+
+.profile-card {
+  border: 2px solid #ddd;
+  padding: 20px;
+  border-radius: 12px;
+  width: 300px;
+  margin: 20px auto;
+}
